@@ -4,7 +4,7 @@
 A simple and intuitive Body Mass Index (BMI) Calculator that helps users quickly assess their body composition and health status.
 
 ## ✨ Features
-- 📏 Easy height input (metric and imperial units)
+- 📏 Easy inputs
 - ⚖️ Simple weight measurement
 - 🧮 Instant BMI calculation
 - 📈 BMI category classification
@@ -41,9 +41,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 This project is open source. 
 
-## 🙏 Acknowledgments
-- Inspiration from health and fitness tracking apps
-- Simple, responsive design
 
 ## 🔗 Links
 - [GitHub Repository](https://github.com/Basantae/BMI-Calculator-)
